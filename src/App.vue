@@ -80,7 +80,7 @@ const clearAllTasks = async () => {
     <h1>Todo List</h1>
     <main>
       <form @submit.prevent="addTask">
-        <input v-model="newTaskTitle" placeholder="Eggs, Milk..." />
+        <input v-model="newTaskTitle" placeholder="What needs done?" />
         <button style="background-color: #5a9cfd;" type="submit">Add</button>
         <button style="background-color: #f44336; margin-left: 10px;" type="button" @click="clearAllTasks">Clear All</button>
       </form>

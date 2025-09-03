@@ -1,13 +1,13 @@
 [
   {
     "id": "c561a9f8-fa79-4889-8961-79acf9cd6fc2",
-    "title": "eggs",
+    "title": "Wash Car",
     "completed": true,
     "createdAt": "2025-09-03T19:52:22.906Z"
   },
   {
     "id": "4de5452e-8e2f-4a36-9be9-c72d6dddeb09",
-    "title": "milk",
+    "title": "Sweep Floor",
     "completed": false,
     "createdAt": "2025-09-03T21:47:58.831Z"
   }
