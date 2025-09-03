@@ -81,7 +81,7 @@ const clearAllTasks = async () => {
     <main>
       <form @submit.prevent="addTask">
         <input v-model="newTaskTitle" placeholder="Eggs, Milk..." />
-        <button style="background-color: #4caf50;" type="submit">Add</button>
+        <button style="background-color: #5a9cfd;" type="submit">Add</button>
         <button style="background-color: #f44336; margin-left: 10px;" type="button" @click="clearAllTasks">Clear All</button>
       </form>
       <div v-for="(task, idx) in tasks">
