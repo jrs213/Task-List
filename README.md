@@ -1,7 +1,7 @@
 
 # Vue Todo List App
 
-A simple full-stack Todo List application built with Vue 3, Vite, Remult, and Express. This project is designed for developers practicing their web development skills. It covers basic CRUD operations, live updates, and a modern UI.
+A simple full-stack Todo List application built with Vue 3, Vite, Remult, and Express. 
 
 ## Features
 - Add, edit, complete, and delete tasks
@@ -70,14 +70,4 @@ vue-todo/
 - `npm run build` — Build frontend for production
 - `npm run preview` — Preview production build
 
-## Learning Resources
-- [Vue 3 Documentation](https://vuejs.org/)
-- [Vite Documentation](https://vitejs.dev/)
-- [Remult Documentation](https://remult.dev/)
-- [Express Documentation](https://expressjs.com/)
 
-
-
----
-
-This project is for learning and practice. Feel free to experiment, break things, and improve your skills!
